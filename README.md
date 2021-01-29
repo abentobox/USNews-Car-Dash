@@ -1,4 +1,4 @@
-# [USNews Car Score and Price Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDBmZTRjYzMtMjE2OS00Y2FlLTgxYmItMTY3OGVlYzRlOGJiIiwidCI6IjcyZjNiMTNkLTNiZDQtNGYxNS04NTAxLTIyOWRhNGVkODk3ZiIsImMiOjZ9&pageName=ReportSection)
+# [USNews Car Score and Price Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjNlNDQ4MDktZmJjOS00YzVjLTkxODEtZjViYWI1NjQzMjBmIiwidCI6IjcyZjNiMTNkLTNiZDQtNGYxNS04NTAxLTIyOWRhNGVkODk3ZiIsImMiOjZ9&embedImagePlaceholder=true&pageName=ReportSection)
 
 [![Cardash Page 1 Image](https://github.com/abentobox/USNews-Car-Dash/blob/main/images/CarDash_pg1.png)](https://app.powerbi.com/view?r=eyJrIjoiNDBmZTRjYzMtMjE2OS00Y2FlLTgxYmItMTY3OGVlYzRlOGJiIiwidCI6IjcyZjNiMTNkLTNiZDQtNGYxNS04NTAxLTIyOWRhNGVkODk3ZiIsImMiOjZ9&pageName=ReportSection)
 
