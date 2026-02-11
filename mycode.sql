@@ -1,0 +1,1 @@
+select * from sb.user_jnk196.mytable;
